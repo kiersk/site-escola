@@ -1,4 +1,8 @@
 body {
-background-color: #ad71a3;
-color:aliceblue;
+    background-color: #ad71a3;
+    color:aliceblue;
+    }
+.cabeçalho-imagem{
+
+    width: 20%;
 }
