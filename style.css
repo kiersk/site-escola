@@ -1,8 +1,8 @@
-body {
-    background-color: #ad71a3;
-    color:aliceblue;
-    }
-.cabeçalho-imagem{
+* { padding:0; margin:0;}
 
-    width: 20%;
-}
+.header { width:100%; height:60px; padding: 5px;}
+.logo { width:30%; height: 100%; float: left;}
+.menu { width: 70%; height: 40px; line-height: 30px;}
+.content { width: 70%; height:140px; padding: 5px; margin: 0 auto;}
+
+.body {}
